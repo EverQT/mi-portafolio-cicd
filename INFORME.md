@@ -1,7 +1,7 @@
 # Informe Laboratorio 6.1 - Despliegue CI/CD
 
 ## Datos del estudiante
-- **Nombre:** [Tu nombre aquí]
+- **Nombre:** Quispe Torrez Ever
 - **Repositorio:** https://github.com/EverQT/mi-portafolio-cicd
 
 ## Descripción del sitio web
